@@ -1,0 +1,8 @@
+<testsuites>
+	<testsuite id="1" tests="1" failures="0" package="/Users/testinium/EnUygunWebAutomation/enuygun/Specs/UcusAramasi.spec" time="30.808" timestamp="2021-12-01T23:01:13" name="En Uygun Biletleme" errors="0" hostname="testiniums-MacBook-Air.local">
+		<properties></properties>
+		<testcase classname="En Uygun Biletleme" name="Belirlenen Tarihler Arasinda Uçuş Aramasi Yap | Return" time="30.806"></testcase>
+		<system-out></system-out>
+		<system-err></system-err>
+	</testsuite>
+</testsuites>

@@ -1,0 +1,21 @@
+Created by testinium on 1.12.2021
+
+This is a concept file with following syntax for each concept.
+# Payment sayfasında kart numarasını <CardNumber> olarak gir
+* "inputPaymentCardNumber" elementine <CardNumber> ini yolla
+
+
+# Payment sayfasında kart son kullanma tarihini gir
+* "inputPaymentCreditCardMonth" elementine tıkla
+* "optionCreditCardMonth" elementine tıkla
+* "inputPaymentCreditCardYear" elementine tıkla
+* "optionCreditCardYear" elementine tıkla
+
+# Payment sayfasında kart <cvc> cvc olarak gir
+* "inputPaymentCreditCardCvc" elementine <cvc> ini yolla
+
+# Payment sayfasında şartları kabul ediyoruma tıkla
+* "btnPaymentAgreement" elementine js ile tıkla
+
+# Ödeme yap butonuna tıkla
+* "btnPaymnetBuy" elementine tıkla

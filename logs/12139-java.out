@@ -1,0 +1,343 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+{"logLevel":"debug","message":"gauge-java took 2013milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 2013"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 60295"}
+{"logLevel":"info","message":"Listening on port:60295"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.isElementClickable' and 'com.enuygun.step.StepImplementation.isElementClickable'"}
+{"logLevel":"debug","message":"Found {} elementinin tıklanabilir olması kontrolü in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.swichtoNextPage' and 'com.enuygun.step.StepImplementation.swichtoNextPage'"}
+{"logLevel":"debug","message":"Found Yeni {}. acilan sayfaya git in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.navigateTo' and 'com.enuygun.step.StepImplementation.navigateTo'"}
+{"logLevel":"debug","message":"Found {} adresine git in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.js' and 'com.enuygun.step.StepImplementation.js'"}
+{"logLevel":"debug","message":"Found {} js in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.clickByElementWithJS' and 'com.enuygun.step.StepImplementation.clickByElementWithJS'"}
+{"logLevel":"debug","message":"Found {} elementine js ile tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.getAfterPriceofElement' and 'com.enuygun.step.StepImplementation.getAfterPriceofElement'"}
+{"logLevel":"debug","message":"Found {} elementi ile fiyatini karsilastir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.scrollToElementClick' and 'com.enuygun.step.StepImplementation.scrollToElementClick'"}
+{"logLevel":"debug","message":"Found {} elementine scroll yap ve tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.closeAddsTab' and 'com.enuygun.step.StepImplementation.closeAddsTab'"}
+{"logLevel":"debug","message":"Found Reklamları kapat ve {} tabını sec in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.doesUrlEqual' and 'com.enuygun.step.StepImplementation.doesUrlEqual'"}
+{"logLevel":"debug","message":"Found Şu anki url {} ile aynı mı in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.pageSource' and 'com.enuygun.step.StepImplementation.pageSource'"}
+{"logLevel":"debug","message":"Found Get Page Source in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.attrToLog' and 'com.enuygun.step.StepImplementation.attrToLog'"}
+{"logLevel":"debug","message":"Found {} elementinin {} değerini loga yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.clickElementByIndex' and 'com.enuygun.step.StepImplementation.clickElementByIndex'"}
+{"logLevel":"debug","message":"Found {} element listesinin {} sıradaki elemanına tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.scrollToElement' and 'com.enuygun.step.StepImplementation.scrollToElement'"}
+{"logLevel":"debug","message":"Found {} elementine scroll yap in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.storeStringAsIntInArrayList' and 'com.enuygun.step.StepImplementation.storeStringAsIntInArrayList'"}
+{"logLevel":"debug","message":"Found {} elementinin text değerini double yapıp ArrayListe ekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.getPrice' and 'com.enuygun.step.StepImplementation.getPrice'"}
+{"logLevel":"debug","message":"Found {} elementinin fiyatini {} elementi ile karsilastir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.implementation1' and 'com.enuygun.step.StepImplementation.implementation1'"}
+{"logLevel":"debug","message":"Found DebugHelper in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.focusandSendKeys' and 'com.enuygun.step.StepImplementation.focusandSendKeys'"}
+{"logLevel":"debug","message":"Found {} elementine odaklan {} ini yolla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.focusandSendKeys' and 'com.enuygun.step.StepImplementation.focusandSendKeys'"}
+{"logLevel":"debug","message":"Found {} element listesinin ilk elemanına tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.getTextChanging' and 'com.enuygun.step.StepImplementation.getTextChanging'"}
+{"logLevel":"debug","message":"Found {} text degeri {} degerine degismis mi in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.sendKeysElement' and 'com.enuygun.step.StepImplementation.sendKeysElement'"}
+{"logLevel":"debug","message":"Found {} elementine {} ini yolla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.clearElement' and 'com.enuygun.step.StepImplementation.clearElement'"}
+{"logLevel":"debug","message":"Found {} elementinin değerini temizle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.clickElement2' and 'com.enuygun.step.StepImplementation.clickElement2'"}
+{"logLevel":"debug","message":"Found {} elementine tıklaaa in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.tikla' and 'com.enuygun.step.StepImplementation.tikla'"}
+{"logLevel":"debug","message":"Found {} tiklaaa in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.getElementText' and 'com.enuygun.step.StepImplementation.getElementText'"}
+{"logLevel":"debug","message":"Found {} elementinin text değeri {} değerine eşit mi in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.getElementText' and 'com.enuygun.step.StepImplementation.getElementText'"}
+{"logLevel":"debug","message":"Found get text {} element and control {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.clickFirstElementOfList' and 'com.enuygun.step.StepImplementation.clickFirstElementOfList'"}
+{"logLevel":"debug","message":"Found {} element listenin ilk elementine tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.controlIsElementInVisible' and 'com.enuygun.step.StepImplementation.controlIsElementInVisible'"}
+{"logLevel":"debug","message":"Found {} elementinin görünür olmaması kontrol edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.clickByElementWithJSNoKey' and 'com.enuygun.step.StepImplementation.clickByElementWithJSNoKey'"}
+{"logLevel":"debug","message":"Found {} web elementine js ile tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.zoomOut' and 'com.enuygun.step.StepImplementation.zoomOut'"}
+{"logLevel":"debug","message":"Found Zoom out %80 in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.acceptMessage' and 'com.enuygun.step.StepImplementation.acceptMessage'"}
+{"logLevel":"debug","message":"Found Acilan uyari mesajini kabul et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.getTextValue' and 'com.enuygun.step.StepImplementation.getTextValue'"}
+{"logLevel":"debug","message":"Found {} elementinin text değerini gör in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.clickByCoordinate' and 'com.enuygun.step.StepImplementation.clickByCoordinate'"}
+{"logLevel":"debug","message":"Found Click coordinate in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.scrollBy' and 'com.enuygun.step.StepImplementation.scrollBy'"}
+{"logLevel":"debug","message":"Found {} koordinatına y düzleminde scroll yap in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.clearToElement' and 'com.enuygun.step.StepImplementation.clearToElement'"}
+{"logLevel":"debug","message":"Found {} elementinin text alanını temizle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.zoomSetting' and 'com.enuygun.step.StepImplementation.zoomSetting'"}
+{"logLevel":"debug","message":"Found {} kadar pencere boyutu ayarla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.focusAndClickElement' and 'com.enuygun.step.StepImplementation.focusAndClickElement'"}
+{"logLevel":"debug","message":"Found {} elementi üzerinde bekle ve tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.controlIsElementVisible' and 'com.enuygun.step.StepImplementation.controlIsElementVisible'"}
+{"logLevel":"debug","message":"Found {} elementinin görünür olması kontrol edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.checkElementAttribute' and 'com.enuygun.step.StepImplementation.checkElementAttribute'"}
+{"logLevel":"debug","message":"Found {} elementinin {} niteliği {} değerine eşit mi in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.scrollToElementByIndex' and 'com.enuygun.step.StepImplementation.scrollToElementByIndex'"}
+{"logLevel":"debug","message":"Found {} element listesinin {} sıradaki elemanına scroll yap in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.checkBoxControl' and 'com.enuygun.step.StepImplementation.checkBoxControl'"}
+{"logLevel":"debug","message":"Found {} Check box elementinin secilip secilmedigini kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.controlIsElementPresent' and 'com.enuygun.step.StepImplementation.controlIsElementPresent'"}
+{"logLevel":"debug","message":"Found {} elementinin sayfada mevcut olması kontrol edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.scrollToElementByIndexClick' and 'com.enuygun.step.StepImplementation.scrollToElementByIndexClick'"}
+{"logLevel":"debug","message":"Found {} element listesinin {} sıradaki elemanına scroll yap ve tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.increaseOf' and 'com.enuygun.step.StepImplementation.increaseOf'"}
+{"logLevel":"debug","message":"Found {} elementini {} tane arttır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.doesUrlContain' and 'com.enuygun.step.StepImplementation.doesUrlContain'"}
+{"logLevel":"debug","message":"Found Şu anki url {} içeriyor mu in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.hoverElement' and 'com.enuygun.step.StepImplementation.hoverElement'"}
+{"logLevel":"debug","message":"Found {} elementinin üzerine gel in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.getPriceofElement' and 'com.enuygun.step.StepImplementation.getPriceofElement'"}
+{"logLevel":"debug","message":"Found {} elementinin fiyatini al in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.waitBySeconds' and 'com.enuygun.step.StepImplementation.waitBySeconds'"}
+{"logLevel":"debug","message":"Found {} saniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.controlIsElementClickable' and 'com.enuygun.step.StepImplementation.controlIsElementClickable'"}
+{"logLevel":"debug","message":"Found {} elementinin tıklanabilir olması kontrol edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.getElementTextContain' and 'com.enuygun.step.StepImplementation.getElementTextContain'"}
+{"logLevel":"debug","message":"Found {} elementinin text değeri {} değerini içeriyor mu in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.getElementTextContain' and 'com.enuygun.step.StepImplementation.getElementTextContain'"}
+{"logLevel":"debug","message":"Found get text {} element and control contains {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.clickElement' and 'com.enuygun.step.StepImplementation.clickElement'"}
+{"logLevel":"debug","message":"Found {} elementine tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.checkElementNotEquals' and 'com.enuygun.step.StepImplementation.checkElementNotEquals'"}
+{"logLevel":"debug","message":"Found {} elementinin text değeri {} değerinden farklı mı in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.CoordinateScroll' and 'com.enuygun.step.StepImplementation.CoordinateScroll'"}
+{"logLevel":"debug","message":"Found {} ve {} koordinatına scroll yap in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.scrollTo' and 'com.enuygun.step.StepImplementation.scrollTo'"}
+{"logLevel":"debug","message":"Found Sayfada {} ve {} koordinatlarına scroll yap in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.currentUrl' and 'com.enuygun.step.StepImplementation.currentUrl'"}
+{"logLevel":"debug","message":"Found {} sayfa urli dogru mu kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.sendKeysElementText' and 'com.enuygun.step.StepImplementation.sendKeysElementText'"}
+{"logLevel":"debug","message":"Found {} elementine güvenlik noyu yolla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.enuygun.step.StepImplementation.radioButtonControl' and 'com.enuygun.step.StepImplementation.radioButtonControl'"}
+{"logLevel":"debug","message":"Found {} Radio button elementinin secilip secilmedigini kontrol et in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\t{} elementinin görünür olmaması kontrol edilir : public void controlIsElementInVisible(String key)"}
+{"logLevel":"debug","message":"\t{} adresine git : public void navigateTo(String url)"}
+{"logLevel":"debug","message":"\t{} elementinin görünür olması kontrol edilir : public void controlIsElementVisible(String key)"}
+{"logLevel":"debug","message":"\t{} elementinin fiyatini al : public void getPriceofElement(String key)"}
+{"logLevel":"debug","message":"\t{} elementine tıkla : public void clickElement(String key)"}
+{"logLevel":"debug","message":"\t{} elementi ile fiyatini karsilastir : public void getAfterPriceofElement(String key)"}
+{"logLevel":"debug","message":"\t{} elementinin text değerini double yapıp ArrayListe ekle : public void storeStringAsIntInArrayList(String key)"}
+{"logLevel":"debug","message":"\t{} elementine js ile tıkla : public void clickByElementWithJS(String key)"}
+{"logLevel":"debug","message":"\t{} elementine güvenlik noyu yolla : public void sendKeysElementText(String key)"}
+{"logLevel":"debug","message":"\t{} elementine scroll yap : public void scrollToElement(String key)"}
+{"logLevel":"debug","message":"\tget text {} element and control contains {} : public void getElementTextContain(String key, String expectedText)"}
+{"logLevel":"debug","message":"\tClick coordinate : public void clickByCoordinate()"}
+{"logLevel":"debug","message":"\t{} elementinin text değerini gör : public void getTextValue(String key)"}
+{"logLevel":"debug","message":"\t{} element listenin ilk elementine tıkla : public void clickFirstElementOfList(String key)"}
+{"logLevel":"debug","message":"\t{} elementinin üzerine gel : public void hoverElement(String key)"}
+{"logLevel":"debug","message":"\t{} elementi üzerinde bekle ve tıkla : public void focusAndClickElement(String key)"}
+{"logLevel":"debug","message":"\tunchecked : public List<WebElement> findElements(String byValue, String selectorType)"}
+{"logLevel":"debug","message":"\t{} elementinin tıklanabilir olması kontrolü : public void isElementClickable(String key)"}
+{"logLevel":"debug","message":"\t{} kadar pencere boyutu ayarla : public void zoomSetting(String zoomNumber)"}
+{"logLevel":"debug","message":"\tŞu anki url {} ile aynı mı : public void doesUrlEqual(String url)"}
+{"logLevel":"debug","message":"\tŞu anki url {} içeriyor mu : public void doesUrlContain(String url)"}
+{"logLevel":"debug","message":"\t{} elementinin text alanını temizle : public void clearToElement(String key)"}
+{"logLevel":"debug","message":"\tGet Page Source : public void pageSource()"}
+{"logLevel":"debug","message":"\t{} text degeri {} degerine degismis mi : public void getTextChanging(String text1, String text2)"}
+{"logLevel":"debug","message":"\t{} elementine {} ini yolla : public void sendKeysElement(String key, String text)"}
+{"logLevel":"debug","message":"\t{} js : public void js(String zoomNumber)"}
+{"logLevel":"debug","message":"\t{} Check box elementinin secilip secilmedigini kontrol et : public void checkBoxControl(String key)"}
+{"logLevel":"debug","message":"\t{} elementinin tıklanabilir olması kontrol edilir : public void controlIsElementClickable(String key)"}
+{"logLevel":"debug","message":"\tSayfada {} ve {} koordinatlarına scroll yap : public void scrollTo(int x, int y)"}
+{"logLevel":"debug","message":"\t{} elementinin fiyatini {} elementi ile karsilastir : public void getPrice(String key1, String key2)"}
+{"logLevel":"debug","message":"\t{} tiklaaa : public void tikla(String key)"}
+{"logLevel":"debug","message":"\t{} elementini {} tane arttır : public void increaseOf(String key, int adet)"}
+{"logLevel":"debug","message":"\t{} elementine odaklan {} ini yolla : public void focusandSendKeys(String key, String text)"}
+{"logLevel":"debug","message":"\t{} elementine tıklaaa : public void clickElement2(String key)"}
+{"logLevel":"debug","message":"\t{} elementinin {} niteliği {} değerine eşit mi : public void checkElementAttribute(String key, String attribute, String expectedValue)"}
+{"logLevel":"debug","message":"\t{} Radio button elementinin secilip secilmedigini kontrol et : public void radioButtonControl(String key)"}
+{"logLevel":"debug","message":"\t{} element listesinin {} sıradaki elemanına scroll yap : public void scrollToElementByIndex(String key, int index)"}
+{"logLevel":"debug","message":"\t{} saniye bekle : public void waitBySeconds(long seconds)"}
+{"logLevel":"debug","message":"\tDebugHelper : public void implementation1()"}
+{"logLevel":"debug","message":"\t{} koordinatına y düzleminde scroll yap : public void scrollBy(String y)"}
+{"logLevel":"debug","message":"\t{} sayfa urli dogru mu kontrol et : public void currentUrl(String aspectUrl)"}
+{"logLevel":"debug","message":"\t{} element listesinin {} sıradaki elemanına scroll yap ve tıkla : public void scrollToElementByIndexClick(String key, int index)"}
+{"logLevel":"debug","message":"\t{} elementinin {} değerini loga yaz : public void attrToLog(String key, String attr)"}
+{"logLevel":"debug","message":"\t{} web elementine js ile tıkla : public void clickByElementWithJSNoKey(WebElement element)"}
+{"logLevel":"debug","message":"\tget text {} element and control {} : public void getElementText(String key, String expectedText)"}
+{"logLevel":"debug","message":"\tYeni {}. acilan sayfaya git : public void swichtoNextPage(int key)"}
+{"logLevel":"debug","message":"\t{} element listesinin {} sıradaki elemanına tıkla : public void clickElementByIndex(String key, int index)"}
+{"logLevel":"debug","message":"\t{} elementinin sayfada mevcut olması kontrol edilir : public void controlIsElementPresent(String key)"}
+{"logLevel":"debug","message":"\tAcilan uyari mesajini kabul et : public void acceptMessage()"}
+{"logLevel":"debug","message":"\t{} element listesinin ilk elemanına tıkla : public void focusandSendKeys(String key)"}
+{"logLevel":"debug","message":"\t{} elementinin değerini temizle : public void clearElement(String key)"}
+{"logLevel":"debug","message":"\tZoom out %80 : public void zoomOut()"}
+{"logLevel":"debug","message":"\tReklamları kapat ve {} tabını sec : public void closeAddsTab(int tabNumber)"}
+{"logLevel":"debug","message":"\t{} elementine scroll yap ve tıkla : public void scrollToElementClick(String key)"}
+{"logLevel":"debug","message":"\t{} elementinin text değeri {} değerinden farklı mı : public void checkElementNotEquals(String key, String expectedText)"}
+{"logLevel":"debug","message":"\t{} elementinin text değeri {} değerine eşit mi : public void getElementText(String key, String expectedText)"}
+{"logLevel":"debug","message":"\t{} ve {} koordinatına scroll yap : public void CoordinateScroll(int x, int y)"}
+{"logLevel":"debug","message":"\t{} elementinin text değeri {} değerini içeriyor mu : public void getElementTextContain(String key, String expectedText)"}
+2021-12-01 21:58:36,860 +03:00 INFO  FindOS:13 getOperationSystemName - Mac OS X
+2021-12-01 21:58:36,876 +03:00 INFO  Driver:51 beforeSuite - *************************************************************************
+2021-12-01 21:58:36,877 +03:00 INFO  Driver:52 beforeSuite - ------------------------TEST PLAN-------------------------
+
+
+2021-12-01 21:58:36,897 +03:00 INFO  Driver:60 beforeSpec - =========================================================================
+2021-12-01 21:58:36,897 +03:00 INFO  Driver:61 beforeSpec - ------------------------SPEC-------------------------
+2021-12-01 21:58:36,897 +03:00 INFO  Driver:64 beforeSpec - SPEC FILE NAME: /Users/testinium/EnUygunWebAutomation/enuygun/Specs/Biletleme.spec
+2021-12-01 21:58:36,898 +03:00 INFO  Driver:65 beforeSpec - SPEC NAME: Specification Heading
+2021-12-01 21:58:36,898 +03:00 INFO  Driver:66 beforeSpec - SPEC TAGS: []
+
+
+2021-12-01 21:58:36,906 +03:00 INFO  Driver:73 beforeScenario - _________________________________________________________________________
+2021-12-01 21:58:36,907 +03:00 INFO  Driver:74 beforeScenario - ------------------------SCENARIO-------------------------
+2021-12-01 21:58:36,907 +03:00 INFO  Driver:76 beforeScenario - SCENARIO NAME: En Uygun Biletleme
+2021-12-01 21:58:36,907 +03:00 INFO  Driver:77 beforeScenario - SCENARIO TAG: []
+
+
+2021-12-01 21:58:36,907 +03:00 INFO  FindOS:26 getOperationSystemNameExpanded - Mac OS X
+MAC
+/Users/testinium/EnUygunWebAutomation/web_driver/chrome/chromedriver
+Dec 01, 2021 9:58:36 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}) on port 40044
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1638385120.737][WARNING]: This version of ChromeDriver has not been tested with Chrome version 96.
+Dec 01, 2021 9:58:41 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+2021-12-01 21:58:41,195 +03:00 INFO  LocalBrowserExec:83 LocalExec - Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/mp/_ym0bzlj001...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60346}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 96.0.4664.55, webStorageEnabled: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+2021-12-01 21:58:41,196 +03:00 INFO  Driver:203 createDriver - Driver ayağa kaldırıldı.
+2021-12-01 21:58:43,297 +03:00 INFO  Driver:85 beforeStep - ═════════  "5" saniye bekle  ═════════
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.enuygun.step.StepImplementation.waitBySeconds"}
+2021-12-01 21:58:43,325 +03:00 INFO  Methods:287 waitBySeconds - 5 saniye bekleniyor...
+2021-12-01 21:58:48,354 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-01 21:58:48,368 +03:00 INFO  Driver:85 beforeStep - ═════════  "btnNereden" elementine "SAW" ini yolla  ═════════
+{"logLevel":"debug","message":"Executing '{} elementine {} ini yolla' using 'class com.enuygun.step.StepImplementation.sendKeysElement"}
+2021-12-01 21:58:48,391 +03:00 INFO  StoreHelper:68 getFileList - json uzantılı dosya sayısı: 1
+2021-12-01 21:58:48,782 +03:00 INFO  Methods:165 sendKeys - Elemente SAW texti yazıldı.
+2021-12-01 21:58:48,794 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-01 21:58:48,799 +03:00 INFO  Driver:85 beforeStep - ═════════  "firstInputResult" elementine tıkla  ═════════
+{"logLevel":"debug","message":"Executing '{} elementine tıkla' using 'class com.enuygun.step.StepImplementation.clickElement"}
+2021-12-01 21:58:48,805 +03:00 INFO  Methods:853 waitUntilPresenceOfElement - firstInputResult elementinin sayfada mevcut olması beklendi.
+2021-12-01 21:58:49,055 +03:00 INFO  Methods:878 waitUntilElementToBeClickableAndClick - firstInputResult elementinin sayfada tıklanabilir olması beklendi ve tıklandı.
+2021-12-01 21:58:49,061 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-01 21:58:49,066 +03:00 INFO  Driver:85 beforeStep - ═════════  "btnNereye" elementine "ESB" ini yolla  ═════════
+{"logLevel":"debug","message":"Executing '{} elementine {} ini yolla' using 'class com.enuygun.step.StepImplementation.sendKeysElement"}
+2021-12-01 21:58:49,923 +03:00 INFO  Methods:165 sendKeys - Elemente ESB texti yazıldı.
+2021-12-01 21:58:49,931 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-01 21:58:49,937 +03:00 INFO  Driver:85 beforeStep - ═════════  "firstInputResult" elementine tıkla  ═════════
+{"logLevel":"debug","message":"Executing '{} elementine tıkla' using 'class com.enuygun.step.StepImplementation.clickElement"}
+2021-12-01 21:58:49,943 +03:00 INFO  Methods:853 waitUntilPresenceOfElement - firstInputResult elementinin sayfada mevcut olması beklendi.
+2021-12-01 21:58:51,176 +03:00 INFO  Methods:878 waitUntilElementToBeClickableAndClick - firstInputResult elementinin sayfada tıklanabilir olması beklendi ve tıklandı.
+2021-12-01 21:58:51,183 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-01 21:58:51,190 +03:00 INFO  Driver:85 beforeStep - ═════════  "btnDepartureDate" elementine tıkla  ═════════
+{"logLevel":"debug","message":"Executing '{} elementine tıkla' using 'class com.enuygun.step.StepImplementation.clickElement"}
+2021-12-01 21:58:51,194 +03:00 INFO  Methods:853 waitUntilPresenceOfElement - btnDepartureDate elementinin sayfada mevcut olması beklendi.
+2021-12-01 21:58:52,796 +03:00 INFO  Methods:878 waitUntilElementToBeClickableAndClick - btnDepartureDate elementinin sayfada tıklanabilir olması beklendi ve tıklandı.
+2021-12-01 21:58:52,799 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-01 21:58:52,805 +03:00 INFO  Driver:85 beforeStep - ═════════  "btnCalendarDaysSelect" element listesinin "5" sıradaki elemanına tıkla  ═════════
+{"logLevel":"debug","message":"Executing '{} element listesinin {} sıradaki elemanına tıkla' using 'class com.enuygun.step.StepImplementation.clickElementByIndex"}
+2021-12-01 21:58:53,060 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-01 21:58:53,067 +03:00 INFO  Driver:85 beforeStep - ═════════  "5" saniye bekle  ═════════
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.enuygun.step.StepImplementation.waitBySeconds"}
+2021-12-01 21:58:53,073 +03:00 INFO  Methods:287 waitBySeconds - 5 saniye bekleniyor...
+2021-12-01 21:58:58,114 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-01 21:58:58,123 +03:00 INFO  Driver:85 beforeStep - ═════════  "btnUcuzBiletBul" elementine tıkla  ═════════
+{"logLevel":"debug","message":"Executing '{} elementine tıkla' using 'class com.enuygun.step.StepImplementation.clickElement"}
+2021-12-01 21:58:58,130 +03:00 INFO  Methods:853 waitUntilPresenceOfElement - btnUcuzBiletBul elementinin sayfada mevcut olması beklendi.
+2021-12-01 21:59:04,302 +03:00 INFO  Methods:878 waitUntilElementToBeClickableAndClick - btnUcuzBiletBul elementinin sayfada tıklanabilir olması beklendi ve tıklandı.
+2021-12-01 21:59:04,307 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-01 21:59:04,311 +03:00 INFO  Driver:85 beforeStep - ═════════  "5" saniye bekle  ═════════
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.enuygun.step.StepImplementation.waitBySeconds"}
+2021-12-01 21:59:04,317 +03:00 INFO  Methods:287 waitBySeconds - 5 saniye bekleniyor...
+2021-12-01 21:59:09,330 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-01 21:59:09,337 +03:00 INFO  Driver:85 beforeStep - ═════════  "btnFlightSelection" element listesinin "1" sıradaki elemanına tıkla  ═════════
+{"logLevel":"debug","message":"Executing '{} element listesinin {} sıradaki elemanına tıkla' using 'class com.enuygun.step.StepImplementation.clickElementByIndex"}
+2021-12-01 21:59:13,960 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-01 21:59:13,963 +03:00 INFO  Driver:85 beforeStep - ═════════  "5" saniye bekle  ═════════
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.enuygun.step.StepImplementation.waitBySeconds"}
+2021-12-01 21:59:13,966 +03:00 INFO  Methods:287 waitBySeconds - 5 saniye bekleniyor...
+2021-12-01 21:59:18,979 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-01 21:59:18,990 +03:00 INFO  Driver:85 beforeStep - ═════════  "inputContactEMail" elementine "cv.semihcan@gmail.com" ini yolla  ═════════
+{"logLevel":"debug","message":"Executing '{} elementine {} ini yolla' using 'class com.enuygun.step.StepImplementation.sendKeysElement"}
+2021-12-01 21:59:19,206 +03:00 INFO  Methods:165 sendKeys - Elemente cv.semihcan@gmail.com texti yazıldı.
+2021-12-01 21:59:19,214 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-01 21:59:19,222 +03:00 INFO  Driver:85 beforeStep - ═════════  "inputContactCellPhone" elementine "5555555555" ini yolla  ═════════
+{"logLevel":"debug","message":"Executing '{} elementine {} ini yolla' using 'class com.enuygun.step.StepImplementation.sendKeysElement"}
+2021-12-01 21:59:19,350 +03:00 INFO  Methods:165 sendKeys - Elemente 5555555555 texti yazıldı.
+2021-12-01 21:59:19,354 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-01 21:59:19,364 +03:00 INFO  Driver:85 beforeStep - ═════════  "inputContactFirstName" elementine "Semih" ini yolla  ═════════
+{"logLevel":"debug","message":"Executing '{} elementine {} ini yolla' using 'class com.enuygun.step.StepImplementation.sendKeysElement"}
+2021-12-01 21:59:19,454 +03:00 INFO  Methods:165 sendKeys - Elemente Semih texti yazıldı.
+2021-12-01 21:59:19,457 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-01 21:59:19,465 +03:00 INFO  Driver:85 beforeStep - ═════════  "inputContactLastName" elementine "CAN" ini yolla  ═════════
+{"logLevel":"debug","message":"Executing '{} elementine {} ini yolla' using 'class com.enuygun.step.StepImplementation.sendKeysElement"}
+2021-12-01 21:59:19,605 +03:00 INFO  Methods:165 sendKeys - Elemente CAN texti yazıldı.
+2021-12-01 21:59:19,626 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-01 21:59:19,633 +03:00 INFO  Driver:85 beforeStep - ═════════  "checboxContactBirtdayDay" elementine tıkla  ═════════
+{"logLevel":"debug","message":"Executing '{} elementine tıkla' using 'class com.enuygun.step.StepImplementation.clickElement"}
+2021-12-01 21:59:19,638 +03:00 INFO  Methods:853 waitUntilPresenceOfElement - checboxContactBirtdayDay elementinin sayfada mevcut olması beklendi.
+2021-12-01 21:59:19,878 +03:00 INFO  Methods:878 waitUntilElementToBeClickableAndClick - checboxContactBirtdayDay elementinin sayfada tıklanabilir olması beklendi ve tıklandı.
+2021-12-01 21:59:19,895 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-01 21:59:19,903 +03:00 INFO  Driver:85 beforeStep - ═════════  "optionDateDay" elementine tıkla  ═════════
+{"logLevel":"debug","message":"Executing '{} elementine tıkla' using 'class com.enuygun.step.StepImplementation.clickElement"}
+2021-12-01 21:59:19,907 +03:00 INFO  Methods:853 waitUntilPresenceOfElement - optionDateDay elementinin sayfada mevcut olması beklendi.
+2021-12-01 21:59:20,276 +03:00 INFO  Methods:878 waitUntilElementToBeClickableAndClick - optionDateDay elementinin sayfada tıklanabilir olması beklendi ve tıklandı.
+2021-12-01 21:59:20,279 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-01 21:59:20,300 +03:00 INFO  Driver:214 quitDriver - Driver kapatıldı.
+2021-12-01 21:59:20,300 +03:00 INFO  Driver:111 afterScenario - TEST BAŞARILI
+2021-12-01 21:59:20,300 +03:00 INFO  Driver:114 afterScenario - _________________________________________________________________________
+
+
+2021-12-01 21:59:20,314 +03:00 INFO  Driver:121 afterSpec - =========================================================================
+
+
+
+2021-12-01 21:59:20,321 +03:00 INFO  Driver:129 afterSuite - *************************************************************************
+
+
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

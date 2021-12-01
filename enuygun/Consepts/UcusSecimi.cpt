@@ -1,0 +1,52 @@
+Created by testinium on 1.12.2021
+
+This is a concept file with following syntax for each concept.
+# Nereden alanına <NEREDEN>, Nereye alanına <NEREYE> gir
+* "5" saniye bekle
+* "btnNereden" elementine <NEREDEN> ini yolla
+* "firstInputResult" elementine tıkla
+* "btnNereye" elementine <NEREYE> ini yolla
+* "firstInputResult" elementine tıkla
+
+
+
+# Ucuz Bilet Butonuna Tıkla
+* "btnUcuzBiletBul" elementine tıkla
+
+
+# Gidiş uçuşu için ayın <GUN> gününü seç
+* "btnDepartureDate" elementine tıkla
+* "btnCalendarDaysSelect" element listesinin <GUN> sıradaki elemanına tıkla
+* "5" saniye bekle
+
+
+# Dönüş uçuşu için ayın <GUN> gününü seç
+* "btnReturnDate" elementine tıkla
+* "btnCalendarDaysSelect" element listesinin <GUN> sıradaki elemanına tıkla
+* "5" saniye bekle
+
+
+# Yolcu Seçimi Butonuna Tikla
+* "5" saniye bekle
+* "btnPassengerSelect" elementine tıkla
+
+# 2 Yetişkin Seçimi Yap
+* "btnAdultPassengerIncrease" elementine tıkla
+
+
+# 1 Cocuk Yolcu Ekle
+* "btnChildPassengerIncrease" elementine tıkla
+
+# 1 Bebek Yolcu Ekle
+* "btnInfinantPassengerIncrease" elementine tıkla
+
+# Yolcu Sayisi Seçimini Tamamla
+* "btnPasseengerOK" elementine tıkla
+
+
+#Listelenen uçuşlardan <SIRA> sıradakini sec
+* "5" saniye bekle
+* "btnFlightSelection" element listesinin <SIRA> sıradaki elemanına tıkla
+
+
+

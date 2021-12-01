@@ -1,0 +1,31 @@
+Created by testinium on 1.12.2021
+
+This is a concept file with following syntax for each concept.
+# Yolcu bilgileri ekranında <email> emali olarak gir
+* "5" saniye bekle
+* "inputContactEMail" elementine "cv.semihcan@gmail.com" ini yolla
+
+
+# Yolcu bilgileri ekranında <telefon> telefon olarak gir
+* "inputContactCellPhone" elementine <telefon> ini yolla
+
+# Yolcu bilgileri ekranında <ad> adını <soyad> soyadını gir
+* "inputContactFirstName" elementine <ad> ini yolla
+* "inputContactLastName" elementine <soyad> ini yolla
+
+# Yolcu bilgileri ekranında dogum tarhini gir
+* "checboxContactBirtdayDay" elementine tıkla
+* "optionDateDay" elementine tıkla
+* "checboxContactBirtdayMonth" elementine tıkla
+* "optionDateMonth" elementine tıkla
+* "checboxContactBirtdayYear" elementine tıkla
+* "optionDateYear" elementine tıkla
+
+# Yolcu bilgileri ekranında <TC> TC  ve <HES> HES Code gir
+* "inputContactTC" elementine <TC> ini yolla
+* "inputContactHESCode" elementine <HES> ini yolla
+
+
+# Ödeme Sayfasına Geç
+* "btnPaymentContinue" elementine tıkla
+* "15" saniye bekle

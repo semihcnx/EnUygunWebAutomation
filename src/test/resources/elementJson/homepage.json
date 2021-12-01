@@ -1,0 +1,74 @@
+[
+  {
+    "key": "btnNereden",
+    "value": "OriginInput",
+    "type": "id"
+  },
+  {
+    "key": "btnNereye",
+    "value": "DestinationInput",
+    "type": "id"
+  },
+  {
+    "key": "firstInputResult",
+    "value": "react-autowhatever-1-section-0-item-0",
+    "type": "id"
+  },
+  {
+    "key": "btnDepartureDate",
+    "value": "DepartureDate",
+    "type": "id"
+  },
+  {
+    "key": "btnUcuzBiletBul",
+    "value": "button[class='primary-btn block']",
+    "type": "css"
+  },
+  {
+    "key": "btnDepartureDate",
+    "value": "DepartureDate",
+    "type": "id"
+  },
+  {
+    "key": "btnReturnDate",
+    "value": "ReturnDate",
+    "type": "id"
+  },
+  {
+    "key": "btnCalendarDaysSelect",
+    "value": "(//td[contains(@class,'Calendar') and not(contains(@aria-label,'Not'))]//div[@class='CalendarDay__content'])",
+    "type": "xpath"
+  },
+  {
+    "key": "btnPassengerSelect",
+    "value": "button[class='default-btn block passenger-select-button']",
+    "type": "css"
+  },
+  {
+    "key": "btnAdultPassengerIncrease",
+    "value": "(//span[text()='Yetişkin']//..)//following::div//button[@class='active']",
+    "type": "xpath"
+  },
+  {
+    "key": "btnChildPassengerIncrease",
+    "value": "(//span[text()='Çocuk']//..)//following::div//button[@class='active']",
+    "type": "xpath"
+  },
+  {
+    "key": "btnInfinantPassengerIncrease",
+    "value": "(//span[text()='Bebek']//..)//following::div//button[@class='active']",
+    "type": "xpath"
+  },
+  {
+    "key": "btnPasseengerOK",
+    "value": "button[class='primary-link-btn']",
+    "type": "css"
+  },
+  {
+    "key": "btnFlightSelection",
+    "value": "button[class='action-select-btn tr btn btn-outline-success btn-sm']",
+    "type": "css"
+  }
+
+
+]

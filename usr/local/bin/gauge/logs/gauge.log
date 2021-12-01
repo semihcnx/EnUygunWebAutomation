@@ -1,0 +1,220 @@
+01-12-2021 01:51:16.008 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/Deneme.spec:6
+01-12-2021 01:51:16.009 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 01:51:16.009 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 01:51:16.009 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 01:51:16.009 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 02:04:31.435 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/e2e.spec:6
+01-12-2021 02:04:31.435 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 02:04:31.435 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 02:04:31.435 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 02:04:31.435 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 02:06:55.348 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/e2e.spec:6
+01-12-2021 02:06:55.349 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 02:06:55.349 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 02:06:55.349 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 02:06:55.349 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 02:08:09.480 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/e2e.spec:6
+01-12-2021 02:08:09.480 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 02:08:09.480 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 02:08:09.480 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 02:08:09.480 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 02:09:51.979 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/e2e.spec:6
+01-12-2021 02:09:51.979 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 02:09:51.979 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 02:09:51.979 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 02:09:51.979 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 02:11:42.841 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/e2e.spec:6
+01-12-2021 02:11:42.841 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 02:11:42.841 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 02:11:42.841 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 02:11:42.841 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 02:13:52.245 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/e2e.spec:6
+01-12-2021 02:13:52.245 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 02:13:52.245 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 02:13:52.245 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 02:13:52.245 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 02:17:37.614 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/e2e.spec:6
+01-12-2021 02:17:37.614 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 02:17:37.614 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 02:17:37.614 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 02:17:37.615 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 02:20:05.245 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/e2e.spec:6
+01-12-2021 02:20:05.245 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 02:20:05.245 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 02:20:05.245 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 02:20:05.245 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 02:24:48.784 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/e2e.spec:6
+01-12-2021 02:24:48.784 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 02:24:48.784 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 02:24:48.784 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 02:24:48.784 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 02:31:24.035 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/e2e.spec:6
+01-12-2021 02:31:24.035 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 02:31:24.035 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 02:31:24.035 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 02:31:24.035 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 02:32:28.660 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/e2e.spec:6
+01-12-2021 02:32:28.660 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 02:32:28.660 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 02:32:28.660 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 02:32:28.660 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 02:35:06.409 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/e2e.spec:6
+01-12-2021 02:35:06.409 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 02:35:06.409 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 02:35:06.409 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 02:35:06.409 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 02:35:21.456 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/e2e.spec:6
+01-12-2021 02:35:21.456 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 02:35:21.456 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 02:35:21.456 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 02:35:21.456 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 16:35:34.273 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/e2e.spec:6
+01-12-2021 16:35:34.273 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 16:35:34.273 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 16:35:34.273 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 16:35:34.273 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 16:39:02.990 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/e2e.spec:6
+01-12-2021 16:39:02.990 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 16:39:02.990 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 16:39:02.990 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 16:39:02.990 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 16:41:09.772 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/e2e.spec:6
+01-12-2021 16:41:09.772 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 16:41:09.772 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 16:41:09.772 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 16:41:09.772 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 16:41:57.244 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/e2e.spec:6
+01-12-2021 16:41:57.244 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 16:41:57.244 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 16:41:57.244 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 16:41:57.244 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 16:43:49.521 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/e2e.spec:6
+01-12-2021 16:43:49.521 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 16:43:49.521 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 16:43:49.521 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 16:43:49.521 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 16:43:59.137 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/e2e.spec:6
+01-12-2021 16:43:59.137 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 16:43:59.137 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 16:43:59.137 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 16:43:59.137 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 17:57:43.118 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/e2e.spec:6
+01-12-2021 17:57:43.119 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 17:57:43.119 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 17:57:43.119 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 17:57:43.119 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 18:00:01.299 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/e2e.spec:6
+01-12-2021 18:00:01.299 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 18:00:01.299 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 18:00:01.299 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 18:00:01.299 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 18:08:51.127 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/e2e.spec:6
+01-12-2021 18:08:51.127 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 18:08:51.127 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 18:08:51.127 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 18:08:51.127 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 18:20:55.885 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/e2e.spec:13
+01-12-2021 18:20:55.885 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 18:20:55.885 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 18:20:55.885 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 18:20:55.885 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 18:43:24.002 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/e2e.spec:22
+01-12-2021 18:43:24.002 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 18:43:24.002 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 18:43:24.002 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 18:43:24.002 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 18:46:22.657 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/e2e.spec:22
+01-12-2021 18:46:22.658 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 18:46:22.658 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 18:46:22.658 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 18:46:22.658 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 21:24:32.288 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/Biletleme.spec:5
+01-12-2021 21:24:32.289 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 21:24:32.289 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 21:24:32.289 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 21:24:32.289 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 21:27:46.290 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/Biletleme.spec:5
+01-12-2021 21:27:46.290 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 21:27:46.290 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 21:27:46.290 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 21:27:46.290 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 21:48:39.125 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/Biletleme.spec:5
+01-12-2021 21:48:39.125 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 21:48:39.125 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 21:48:39.125 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 21:48:39.125 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 21:48:55.135 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/Biletleme.spec:5
+01-12-2021 21:48:55.136 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 21:48:55.136 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 21:48:55.136 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 21:48:55.136 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 21:52:25.681 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/Biletleme.spec:5
+01-12-2021 21:52:25.681 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 21:52:25.681 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 21:52:25.681 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 21:52:25.681 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 21:54:59.393 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/Biletleme.spec:5
+01-12-2021 21:54:59.393 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 21:54:59.393 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 21:54:59.393 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 21:54:59.393 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 21:56:10.317 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/Biletleme.spec:5
+01-12-2021 21:56:10.317 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 21:56:10.317 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 21:56:10.317 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 21:56:10.317 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 21:57:52.826 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/Biletleme.spec:5
+01-12-2021 21:57:52.826 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 21:57:52.826 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 21:57:52.826 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 21:57:52.826 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 21:58:27.314 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/Biletleme.spec:5
+01-12-2021 21:58:27.315 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 21:58:27.315 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 21:58:27.315 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 21:58:27.315 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 21:59:48.440 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/Biletleme.spec:5
+01-12-2021 21:59:48.440 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 21:59:48.440 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 21:59:48.440 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 21:59:48.440 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 22:02:01.021 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/Biletleme.spec:5
+01-12-2021 22:02:01.023 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 22:02:01.023 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 22:02:01.023 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 22:02:01.023 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 22:06:40.140 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/Biletleme.spec:5
+01-12-2021 22:06:40.141 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 22:06:40.141 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 22:06:40.141 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 22:06:40.141 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 22:31:51.073 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/Biletleme.spec:5
+01-12-2021 22:31:51.073 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 22:31:51.073 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 22:31:51.073 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 22:31:51.073 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 22:35:32.693 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/Biletleme.spec:5
+01-12-2021 22:35:32.693 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 22:35:32.693 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 22:35:32.693 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 22:35:32.693 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 22:37:18.781 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/Biletleme.spec:5
+01-12-2021 22:37:18.781 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 22:37:18.781 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 22:37:18.781 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 22:37:18.781 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 22:55:00.509 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/Biletleme.spec:5
+01-12-2021 22:55:00.509 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 22:55:00.509 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 22:55:00.509 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 22:55:00.509 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 22:56:01.238 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/Biletleme.spec:5
+01-12-2021 22:56:01.238 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 22:56:01.238 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 22:56:01.238 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 22:56:01.238 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-12-2021 23:00:32.849 [Gauge] [DEBUG] gauge run /Users/testinium/EnUygunWebAutomation/enuygun/Specs/UcusAramasi.spec:13
+01-12-2021 23:00:32.849 [Gauge] [DEBUG] hide-suggestion : [true]
+01-12-2021 23:00:32.849 [Gauge] [DEBUG] machine-readable : [true]
+01-12-2021 23:00:32.849 [Gauge] [DEBUG] simple-console : [true]
+01-12-2021 23:00:32.849 [Gauge] [DEBUG] 'gauge_environment' set to 'default'

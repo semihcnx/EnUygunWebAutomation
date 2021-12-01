@@ -1,0 +1,74 @@
+[
+  {
+    "key": "inputContactEMail",
+    "value": "contact_email",
+    "type": "id"
+  },
+  {
+    "key": "inputContactCellPhone",
+    "value": "contact_cellphone",
+    "type": "id"
+  },
+  {
+    "key": "inputContactFirstName",
+    "value": "firstName_0",
+    "type": "id"
+  },
+  {
+    "key": "inputContactLastName",
+    "value": "lastName_0",
+    "type": "id"
+  },
+  {
+    "key": "inputContactHESCode",
+    "value": "healthCode_0",
+    "type": "id"
+  },
+  {
+    "key": "btnPaymentContinue",
+    "value": "button[class=' btn btn-success btn-lg tr  js-reservation-btn']",
+    "type": "css"
+  },
+  {
+    "key": "chooseGenderMale",
+    "value": "gender_M_0",
+    "type": "id"
+  },
+  {
+    "key": "inputContactTC",
+    "value": "publicId_0",
+    "type": "id"
+  },
+  {
+    "key": "checboxContactBirtdayDay",
+    "value": "birthDateDay_0",
+    "type": "id"
+  },
+  {
+    "key": "checboxContactBirtdayMonth",
+    "value": "birthDateMonth_0",
+    "type": "id"
+  },
+  {
+    "key": "checboxContactBirtdayYear",
+    "value": "birthDateYear_0",
+    "type": "id"
+  },
+  {
+    "key": "optionDateYear",
+    "value": "select[id='birthDateYear_0']>option[value=\"1997\"]",
+    "type": "css"
+  },
+  {
+    "key": "optionDateMonth",
+    "value": "select[id='birthDateMonth_0']>option[value=\"09\"]",
+    "type": "css"
+  },
+  {
+    "key": "optionDateDay",
+    "value": "select[id='birthDateDay_0']>option[value=\"09\"]",
+    "type": "css"
+  }
+
+
+]

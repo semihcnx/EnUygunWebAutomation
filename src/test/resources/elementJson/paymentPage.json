@@ -1,0 +1,48 @@
+[
+  {
+    "key": "inputPaymentCardNumber",
+    "value": "cardnumber",
+    "type": "id"
+  },
+  {
+    "key": "inputPaymentCreditCardMonth",
+    "value": "creditCardMonth",
+    "type": "id"
+  },
+  {
+    "key": "inputPaymentCreditCardYear",
+    "value": "creditCardYear",
+    "type": "id"
+  },
+  {
+    "key": "inputPaymentCreditCardCvc",
+    "value": "cvc",
+    "type": "id"
+  },
+  {
+    "key": "btnPaymentAgreement",
+    "value": "//*[@id=\"Payment-form\"]/div/div[6]/label/input",
+    "type": "xpath"
+  },
+  {
+    "key": "optionCreditCardMonth",
+    "value": "select[id='creditCardMonth']>option[value=\"12\"]",
+    "type": "css"
+  },
+  {
+    "key": "optionCreditCardYear",
+    "value": "select[id='creditCardYear']>option[value=\"24\"]",
+    "type": "css"
+  },
+  {
+    "key": "btnPaymnetBuy",
+    "value": "//button[contains(text(),\"Satın Al\")]",
+    "type": "xpath"
+  }
+
+
+
+
+
+
+]
